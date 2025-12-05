@@ -10,8 +10,11 @@
 # Project Structure
 
 ├── docker-compose.yml
+
 ├── package.json
+
 ├── index.js
+
 └── [README.md](http://readme.md/)
 
 ## Setup
