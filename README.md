@@ -1,3 +1,6 @@
+[API Endpoints](https://github.com/Nithin-reddy-k/Redis-PostgreSQL-Latency-Comparison?tab=readme-ov-file#api-endpoints)
+[Results](https://github.com/Nithin-reddy-k/Redis-PostgreSQL-Latency-Comparison?tab=readme-ov-file#expected-results)
+
 ---
 
 # What is this?
@@ -15,7 +18,7 @@
 
 ├── index.js
 
-└── [README.md](http://readme.md/)
+└── README.md
 
 ## Setup
 
